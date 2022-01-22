@@ -20,5 +20,10 @@ int main(){
     cout<<"(float)total/10 = "<<(float)total/10<<endl;
     cout<<"total = "<<total<<endl;
     cout<<"total/10 = "<<total/10<<endl;
+
+    cout<<*num<<endl;
+    cout<<*(&num[1])<<endl;
+
+
     return 0;
 }

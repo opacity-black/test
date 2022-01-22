@@ -1,2 +1,4 @@
+# 屏蔽.vscode下的所有文件
 .vscode/**
+# 屏蔽所有exe文件
 *.exe
